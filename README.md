@@ -1,6 +1,6 @@
 # Software-as-a-Service-SaaS---Example
-Software as a Service (SaaS) - Example Using JavaScipt, React, Tailwind, 
- 
+Software as a Service (SaaS) - Example Using JavaScipt, React, React Hooks, Tailwind,  
+
 # Start app:
  - npx create-react-app <projectName>
  - cd frontend
